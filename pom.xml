@@ -57,9 +57,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<maven.compiler.source>21</maven.compiler.source>
-		<maven.compiler.target>21</maven.compiler.target>
-		<maven.compiler.version>3.11.0</maven.compiler.version>
+		<maven.compiler.source>25</maven.compiler.source>
+		<maven.compiler.target>25</maven.compiler.target>
+		<maven.compiler.release>25</maven.compiler.release>
+		<maven.compiler.version>3.13.0</maven.compiler.version>
 
 		<junit.jupiter.version>5.10.2</junit.jupiter.version>
 		<junit.jupiterplatform.version>1.10.2</junit.jupiterplatform.version>
