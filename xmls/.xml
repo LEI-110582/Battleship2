@@ -1,0 +1,3096 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Main.java</file>
+  <line>13</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Main void main(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+  <highlighted_element>main</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/AiShotStrategy.java</file>
+  <line>20</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.AiShotStrategy" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>AiShotStrategy</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/BattleshipServer.java</file>
+  <line>13</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.BattleshipServer" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+  <highlighted_element>BattleshipServer</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/BattleshipServer.java</file>
+  <line>14</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="method" FQNAME="restserver.BattleshipServer void main(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+  <highlighted_element>main</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/CallbackClient.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.CallbackClient" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>CallbackClient</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/GameController.java</file>
+  <line>20</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.GameController" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>GameController</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/GameController.java</file>
+  <line>48</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="method" FQNAME="restserver.GameController org.springframework.http.ResponseEntity&lt;?&gt; register(restserver.Dtos.RegistrationRequest request)" />
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>8</length>
+  <highlighted_element>register</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/GameController.java</file>
+  <line>90</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="method" FQNAME="restserver.GameController org.springframework.http.ResponseEntity&lt;?&gt; receiveShots(java.lang.String gameId, restserver.Dtos.ShotRequest request)" />
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>12</length>
+  <highlighted_element>receiveShots</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/GameRegistry.java</file>
+  <line>16</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.GameRegistry" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>GameRegistry</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>24</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.BargeTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+  <highlighted_element>BargeTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>29</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>34</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>39</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void constructor()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>constructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>49</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getSize()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>getSize</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>54</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void stillFloating1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>stillFloating1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>59</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void stillFloating2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>stillFloating2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>65</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getPositions()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>getPositions</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>71</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void shoot1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>6</length>
+  <highlighted_element>shoot1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>77</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void shoot2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>6</length>
+  <highlighted_element>shoot2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>83</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void occupies1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>9</length>
+  <highlighted_element>occupies1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>88</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void occupies2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>9</length>
+  <highlighted_element>occupies2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>93</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void tooCloseToShip1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>15</length>
+  <highlighted_element>tooCloseToShip1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>99</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void tooCloseToShip2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>15</length>
+  <highlighted_element>tooCloseToShip2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>105</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void tooCloseToPosition1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>tooCloseToPosition1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>110</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void tooCloseToPosition2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>tooCloseToPosition2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>115</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getTopMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>getTopMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>120</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getBottomMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>16</length>
+  <highlighted_element>getBottomMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>125</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getLeftMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>getLeftMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>130</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getRightMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>15</length>
+  <highlighted_element>getRightMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>135</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void constructorNullInput()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>constructorNullInput</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>23</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.CaravelTest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>CaravelTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void setUpBeforeClass()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+  <highlighted_element>setUpBeforeClass</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>36</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void tearDownAfterClass()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+  <highlighted_element>tearDownAfterClass</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>49</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void getSize()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>getSize</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>59</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructor1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>constructor1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>71</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructor2()" />
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>12</length>
+  <highlighted_element>constructor2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructor3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>constructor3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>93</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructor4()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>constructor4</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>104</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructor5()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>constructor5</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CaravelTest.java</file>
+  <line>114</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CaravelTest void constructorNullPointerException()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>31</length>
+  <highlighted_element>constructorNullPointerException</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>25</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.CarrackTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+  <highlighted_element>CarrackTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>30</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void setUp()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>35</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>44</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructor()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>15</length>
+  <highlighted_element>testConstructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>57</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetSize()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>11</length>
+  <highlighted_element>testGetSize</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>66</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetPositions()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>16</length>
+  <highlighted_element>testGetPositions</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>83</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetTopMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>17</length>
+  <highlighted_element>testGetTopMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>92</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetBottomMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>20</length>
+  <highlighted_element>testGetBottomMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>101</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetLeftMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testGetLeftMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>110</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testGetRightMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>19</length>
+  <highlighted_element>testGetRightMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>119</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testStillFloating1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>127</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testStillFloating2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>137</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testStillFloating3()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>147</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructorWithNull()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>23</length>
+  <highlighted_element>testConstructorWithNull</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>156</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructorDirectionEast()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>28</length>
+  <highlighted_element>testConstructorDirectionEast</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>170</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructorDirectionSouth()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>29</length>
+  <highlighted_element>testConstructorDirectionSouth</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>184</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructorDirectionWest()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>28</length>
+  <highlighted_element>testConstructorDirectionWest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>199</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testConstructorWithInvalidInput()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>31</length>
+  <highlighted_element>testConstructorWithInvalidInput</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>17</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.CompassTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+  <highlighted_element>CompassTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>22</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>27</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>36</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void constructor()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>constructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>45</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void getDirection()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>getDirection</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>57</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void toStringTest()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>toStringTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>69</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void charToCompass1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>charToCompass1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>80</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void charToCompass2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>charToCompass2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CompassTest.java</file>
+  <line>88</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CompassTest void charToCompass3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>charToCompass3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>24</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.FleetTest" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>9</length>
+  <highlighted_element>FleetTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>29</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void setUp()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>34</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>43</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testConstructor()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>15</length>
+  <highlighted_element>testConstructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>49</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testCreateRandom()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>16</length>
+  <highlighted_element>testCreateRandom</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>60</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testAddShip1()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>12</length>
+  <highlighted_element>testAddShip1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>70</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testAddShip2()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>12</length>
+  <highlighted_element>testAddShip2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testAddShip3()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>12</length>
+  <highlighted_element>testAddShip3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>91</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testAddShip4()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>12</length>
+  <highlighted_element>testAddShip4</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>103</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetShips()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>12</length>
+  <highlighted_element>testGetShips</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>116</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetShipsLike()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>16</length>
+  <highlighted_element>testGetShipsLike</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>132</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetFloatingShips()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>20</length>
+  <highlighted_element>testGetFloatingShips</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>152</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testShipAt()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>10</length>
+  <highlighted_element>testShipAt</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>166</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testColisionRisk()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>16</length>
+  <highlighted_element>testColisionRisk</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>184</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testPrintStatus()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>15</length>
+  <highlighted_element>testPrintStatus</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>24</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.FrigateTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+  <highlighted_element>FrigateTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>29</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>34</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>43</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testConstructorNorth()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>testConstructorNorth</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>61</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testConstructorEast()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testConstructorEast</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>77</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testConstructorWest()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testConstructorWest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>94</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testGetSize()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>testGetSize</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>103</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testStillFloating1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>111</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testStillFloating2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>120</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testStillFloating3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>130</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testGetTopMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>17</length>
+  <highlighted_element>testGetTopMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>139</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testGetBottomMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>testGetBottomMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>148</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testGetLeftMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testGetLeftMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>157</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testGetRightMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testGetRightMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>165</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testConstructorInvalidInput()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>27</length>
+  <highlighted_element>testConstructorInvalidInput</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>22</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.GalleonTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+  <highlighted_element>GalleonTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>27</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>32</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>41</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testConstructorNorth()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>testConstructorNorth</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>56</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testConstructorSouth()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>testConstructorSouth</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>73</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testStillFloating1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>81</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testStillFloating2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>91</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testGetTopMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>17</length>
+  <highlighted_element>testGetTopMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>100</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testGetBottomMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>testGetBottomMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>109</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testGetLeftMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>18</length>
+  <highlighted_element>testGetLeftMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>118</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testGetRightMostPos()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testGetRightMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>126</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testConstructorWithInvalidInput()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>31</length>
+  <highlighted_element>testConstructorWithInvalidInput</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>137</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testConstructorEast()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testConstructorEast</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>153</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testConstructorWest()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testConstructorWest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.GameTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+  <highlighted_element>GameTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>33</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>38</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>43</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void constructor()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>constructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>54</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void fire2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>fire2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>61</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void fire3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>fire3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>69</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void repeatedShot1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>repeatedShot1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>77</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void repeatedShot2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>repeatedShot2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>83</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void getAlienMoves()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>getAlienMoves</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GameTest.java</file>
+  <line>90</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GameTest void getRemainingShips()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>17</length>
+  <highlighted_element>getRemainingShips</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>24</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.PositionTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>PositionTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>34</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>39</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void constructor()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>constructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>49</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void getRow()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>6</length>
+  <highlighted_element>getRow</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>54</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void getColumn()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>9</length>
+  <highlighted_element>getColumn</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>59</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void getClassicRow()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>getClassicRow</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>64</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void getClassicColumn()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>16</length>
+  <highlighted_element>getClassicColumn</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>69</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isValid1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>isValid1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>75</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isValid2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>isValid2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>81</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isValid3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>isValid3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>87</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isValid4()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>isValid4</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>93</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isValid5()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>isValid5</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>99</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isAdjacentTo1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>isAdjacentTo1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>105</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isAdjacentTo2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>isAdjacentTo2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>111</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isAdjacentTo3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>isAdjacentTo3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>117</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isAdjacentTo4()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>isAdjacentTo4</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>123</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isAdjacentToWithNull()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>20</length>
+  <highlighted_element>isAdjacentToWithNull</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>129</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isOccupied()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>10</length>
+  <highlighted_element>isOccupied</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>136</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void isHit()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>isHit</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>143</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals1()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>equals1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>149</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals2()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>equals2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>154</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals3()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>equals3</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>160</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals4()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>equals4</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>166</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals5()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>7</length>
+  <highlighted_element>equals5</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>171</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void hashCodeConsistency()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>hashCodeConsistency</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>178</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void toStringFormat()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>14</length>
+  <highlighted_element>toStringFormat</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>29</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.ShipTest" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+  <highlighted_element>ShipTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>34</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void setUp()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>41</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>50</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testConstructor()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>15</length>
+  <highlighted_element>testConstructor</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>63</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetCategory()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>15</length>
+  <highlighted_element>testGetCategory</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>72</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetSize()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>11</length>
+  <highlighted_element>testGetSize</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>81</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetBearing()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>14</length>
+  <highlighted_element>testGetBearing</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>90</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetPositions()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>16</length>
+  <highlighted_element>testGetPositions</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>103</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testStillFloating1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>111</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testStillFloating2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testStillFloating2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>121</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testShoot1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>10</length>
+  <highlighted_element>testShoot1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>131</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testShoot2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>10</length>
+  <highlighted_element>testShoot2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>142</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testOccupies1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>testOccupies1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>151</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testOccupies2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>testOccupies2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>161</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testTooCloseToShip1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>19</length>
+  <highlighted_element>testTooCloseToShip1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>170</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testTooCloseToShip2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>19</length>
+  <highlighted_element>testTooCloseToShip2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>180</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testTooCloseToPosition1()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>23</length>
+  <highlighted_element>testTooCloseToPosition1</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>189</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testTooCloseToPosition2()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>23</length>
+  <highlighted_element>testTooCloseToPosition2</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>199</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetTopMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>17</length>
+  <highlighted_element>testGetTopMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>208</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetBottomMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>20</length>
+  <highlighted_element>testGetBottomMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>217</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetLeftMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>18</length>
+  <highlighted_element>testGetLeftMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>226</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetRightMostPos()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>19</length>
+  <highlighted_element>testGetRightMostPos</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>235</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetAdjacentPositions()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>24</length>
+  <highlighted_element>testGetAdjacentPositions</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>16</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.TasksTest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>9</length>
+  <highlighted_element>TasksTest</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>19</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void setUp()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>23</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>27</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void taskA()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>taskA</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>31</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void taskB()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>taskB</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>35</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void taskC()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>taskC</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>39</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void taskD()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+  <highlighted_element>taskD</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>43</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void buildFleet()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>10</length>
+  <highlighted_element>buildFleet</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>47</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void readShip()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+  <highlighted_element>readShip</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>51</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void readPosition()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>readPosition</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>55</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.TasksTest void firingRound()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>11</length>
+  <highlighted_element>firingRound</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

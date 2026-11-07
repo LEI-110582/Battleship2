@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>1</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Closing tag matches nothing #loc</description>
+  <highlighted_element># ⚓ Battleship 2.0 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Java V...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>2566</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>1</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="Annotator" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Closing tag matches nothing #loc</description>
+  <highlighted_element># ⚓ Battleship 2.0 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Java V...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>2566</length>
+</problem>
+</problems>

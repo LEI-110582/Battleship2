@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Compass.java</file>
+  <line>65</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Compass java.lang.String toString()" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Possible typo: you repeated a word.</description>
+  <highlighted_element>string string</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Compass.java</file>
+  <line>76</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Compass battleship.Compass charToCompass(char ch)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Possible typo: you repeated a word.</description>
+  <highlighted_element>compass compass</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Galleon.java</file>
+  <line>40</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Galleon void fillNorth(battleship.IPosition pos)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>The usual preposition to use after &quot;Fills&quot; is &quot;with&quot;, not &quot;the&quot;. Did you mean 'Fills the positions with'?</description>
+  <highlighted_element>Fills the positions of</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Galleon.java</file>
+  <line>53</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Galleon void fillSouth(battleship.IPosition pos)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>The usual preposition to use after &quot;Fills&quot; is &quot;with&quot;, not &quot;the&quot;. Did you mean 'Fills the positions with'?</description>
+  <highlighted_element>Fills the positions of</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Galleon.java</file>
+  <line>67</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Galleon void fillEast(battleship.IPosition pos)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>The usual preposition to use after &quot;Fills&quot; is &quot;with&quot;, not &quot;the&quot;. Did you mean 'Fills the positions with'?</description>
+  <highlighted_element>Fills the positions of</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Galleon.java</file>
+  <line>80</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Galleon void fillWest(battleship.IPosition pos)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>The usual preposition to use after &quot;Fills&quot; is &quot;with&quot;, not &quot;the&quot;. Did you mean 'Fills the positions with'?</description>
+  <highlighted_element>Fills the positions of</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Tasks.java</file>
+  <line>143</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Tasks battleship.Fleet buildFleet(java.util.Scanner in)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>The personal pronoun 'I' should be uppercase.</description>
+  <highlighted_element>i</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Tasks.java</file>
+  <line>143</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Tasks battleship.Fleet buildFleet(java.util.Scanner in)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Possible agreement error — use the base form here.</description>
+  <highlighted_element>represents</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/AiShotStrategy.java</file>
+  <line>118</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="method" FQNAME="restserver.AiShotStrategy java.util.List&lt;battleship.IPosition&gt; buildHuntPool(java.util.Set&lt;battleship.IPosition&gt; alreadyShot, java.util.List&lt;battleship.IPosition&gt; alreadyChosen)" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Did you mean 'Barça' (football club in Barcelona)?</description>
+  <highlighted_element>Barca</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/Dtos.java</file>
+  <line>59</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.Dtos.ShotRequest" />
+  <problem_class id="GrazieInspection" severity="GRAMMAR_ERROR" attribute_key="GRAMMAR_ERROR">Grammar</problem_class>
+  <description>Two consecutive dots</description>
+  <highlighted_element>..</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>2</length>
+</problem>
+</problems>

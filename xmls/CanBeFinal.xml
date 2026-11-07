@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>95</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="field" FQNAME="battleship.Ship size" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>100</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="field" FQNAME="battleship.Ship positions" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>positions</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/Dtos.java</file>
+  <line>128</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="field" FQNAME="restserver.Dtos.ErrorResponse error" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>error</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+</problems>

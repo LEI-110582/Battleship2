@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Move.java</file>
+  <line>16</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.Move" />
+  <problem_class id="ClassCanBeRecord" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class can be record class</problem_class>
+  <description>Class can be record class</description>
+  <highlighted_element>Move</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+</problems>

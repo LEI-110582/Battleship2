@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Fleet.java</file>
+  <line>199</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Fleet boolean colisionRisk(battleship.IShip s)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for'</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>3</length>
+</problem>
+</problems>

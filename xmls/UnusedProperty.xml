@@ -1,0 +1,62 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>4</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="UnusedProperty" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused property</problem_class>
+  <description>Unused property 'server.port'</description>
+  <highlighted_element>server.port</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>7</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="UnusedProperty" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused property</problem_class>
+  <description>Unused property 'spring.jackson.serialization.indent-output'</description>
+  <highlighted_element>spring.jackson.serialization.indent-output</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>42</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>10</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="UnusedProperty" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused property</problem_class>
+  <description>Unused property 'spring.main.banner-mode'</description>
+  <highlighted_element>spring.main.banner-mode</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>23</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>13</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="UnusedProperty" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused property</problem_class>
+  <description>Unused property 'logging.level.root'</description>
+  <highlighted_element>logging.level.root</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/resources/application.properties</file>
+  <line>14</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/resources/application.properties" />
+  <problem_class id="UnusedProperty" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused property</problem_class>
+  <description>Unused property 'logging.level.battleship'</description>
+  <highlighted_element>logging.level.battleship</highlighted_element>
+  <language>Properties</language>
+  <offset>0</offset>
+  <length>24</length>
+</problem>
+</problems>

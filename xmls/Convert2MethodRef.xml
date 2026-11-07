@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>138</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testStillFloating3()" />
+  <problem_class id="Convert2MethodRef" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Lambda can be replaced with method reference</problem_class>
+  <description>Lambda can be replaced with method reference</description>
+  <highlighted_element>position.shoot()</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/GalleonTest.java</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.GalleonTest void testStillFloating2()" />
+  <problem_class id="Convert2MethodRef" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Lambda can be replaced with method reference</problem_class>
+  <description>Lambda can be replaced with method reference</description>
+  <highlighted_element>pos.shoot()</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>11</length>
+</problem>
+</problems>

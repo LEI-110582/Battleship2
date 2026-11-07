@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>145</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals1()" />
+  <problem_class id="SimplifiableAssertion" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Simplifiable assertion</problem_class>
+  <description>&lt;code&gt;assertTrue()&lt;/code&gt; can be simplified to 'assertEquals()'</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>150</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals2()" />
+  <problem_class id="SimplifiableAssertion" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Simplifiable assertion</problem_class>
+  <description>&lt;code&gt;assertFalse()&lt;/code&gt; can be simplified to 'assertNotEquals()'</description>
+  <highlighted_element>assertFalse</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>156</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals3()" />
+  <problem_class id="SimplifiableAssertion" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Simplifiable assertion</problem_class>
+  <description>&lt;code&gt;assertFalse()&lt;/code&gt; can be simplified to 'assertNotEquals()'</description>
+  <highlighted_element>assertFalse</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>162</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals4()" />
+  <problem_class id="SimplifiableAssertion" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Simplifiable assertion</problem_class>
+  <description>&lt;code&gt;assertFalse()&lt;/code&gt; can be simplified to 'assertNotEquals()'</description>
+  <highlighted_element>assertFalse</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/PositionTest.java</file>
+  <line>167</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.PositionTest void equals5()" />
+  <problem_class id="SimplifiableAssertion" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Simplifiable assertion</problem_class>
+  <description>&lt;code&gt;assertTrue()&lt;/code&gt; can be simplified to 'assertEquals()'</description>
+  <highlighted_element>assertTrue</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>10</length>
+</problem>
+</problems>

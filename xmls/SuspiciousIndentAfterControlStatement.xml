@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>248</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getTopMostPos()" />
+  <problem_class id="SuspiciousIndentAfterControlStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious indentation after control statement without braces</problem_class>
+  <description>Suspicious indentation after 'if' statement</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>308</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getRightMostPos()" />
+  <problem_class id="SuspiciousIndentAfterControlStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious indentation after control statement without braces</problem_class>
+  <description>Suspicious indentation after 'if' statement</description>
+  <highlighted_element />
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+</problems>

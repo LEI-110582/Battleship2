@@ -1,0 +1,197 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:ch.qos.logback:logback-classic:1.4.14 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-19880?utm_source=Jetbrains&quot;&gt;CVE-2026-19880&lt;/a&gt; 7.3 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-12798?utm_source=JetBrains&quot;&gt;CVE-2024-12798&lt;/a&gt; 6.6 JaninoEventEvaluator vulnerability &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:ch.qos.logback:logback-classic:1.4.14" vulnerabilityIds="3e647afa-ce08-4d0d-bb16-d583011fbc64,87565bf6-75b4-4171-a23a-bf2d103739c4" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:ch.qos.logback:logback-core:1.4.14 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-13006?utm_source=Jetbrains&quot;&gt;CVE-2026-13006&lt;/a&gt; 7.9 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-11226?utm_source=JetBrains&quot;&gt;CVE-2025-11226&lt;/a&gt; 6.9 Conditional processing of logback.xml configuration file, in conjuction with Spring Framework and Janino &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-12798?utm_source=JetBrains&quot;&gt;CVE-2024-12798&lt;/a&gt; 6.6 JaninoEventEvaluator vulnerability &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-9828?utm_source=Jetbrains&quot;&gt;CVE-2026-9828&lt;/a&gt; 5.4 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-10532?utm_source=Jetbrains&quot;&gt;CVE-2026-10532&lt;/a&gt; 5.4 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-1225?utm_source=Jetbrains&quot;&gt;CVE-2026-1225&lt;/a&gt; 5.0 Malicious logback.xml configuration file allows instantiation of arbitrary classes &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-12801?utm_source=JetBrains&quot;&gt;CVE-2024-12801&lt;/a&gt; 4.4 SaxEventRecorder vulnerable to Server-Side Request Forgery (SSRF) attacks &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:ch.qos.logback:logback-core:1.4.14" vulnerabilityIds="9042fc1e-7062-4c96-a3a2-d47d5aede1d2,7f9e3482-d644-4d94-bec4-d90f8cd5ad7c,87565bf6-75b4-4171-a23a-bf2d103739c4,8899f833-3951-44ff-a2a2-767e9f4500af,45bfb936-a24a-4b0f-b969-970e237fe778,6712835c-8701-41d1-a85d-628ba15ffcdb,22aa39e1-fd70-49c4-a073-686aad7bc864" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.apache.tomcat.embed:tomcat-embed-core:10.1.19 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-52316?utm_source=Jetbrains&quot;&gt;CVE-2024-52316&lt;/a&gt; 9.8 Unchecked Error Condition &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-24813?utm_source=Jetbrains&quot;&gt;CVE-2025-24813&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-56337?utm_source=Jetbrains&quot;&gt;CVE-2024-56337&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-50379?utm_source=Jetbrains&quot;&gt;CVE-2024-50379&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-31651?utm_source=Jetbrains&quot;&gt;CVE-2025-31651&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41293?utm_source=Jetbrains&quot;&gt;CVE-2026-41293&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-43512?utm_source=Jetbrains&quot;&gt;CVE-2026-43512&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-65905?utm_source=Jetbrains&quot;&gt;CVE-2026-65905&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-55754?utm_source=Jetbrains&quot;&gt;CVE-2025-55754&lt;/a&gt; 9.6 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-29145?utm_source=Jetbrains&quot;&gt;CVE-2026-29145&lt;/a&gt; 9.1 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.apache.tomcat.embed:tomcat-embed-core:10.1.19" vulnerabilityIds="405df489-68b7-486a-a84b-90dcbde43bd6,d497a549-f3e5-4cba-9831-5b140357d600,a8770419-945b-41b4-9ec4-d2a9797344eb,53dd7760-9c02-4990-8b66-2f61b53a40ec,91a8f4ca-5d07-41ff-9105-1d15cb666d71,46549c2d-fcd7-4082-a0eb-7a6bd2b2d77b,d40136ef-23c5-4767-a675-7098130fc980,0f75dbc9-e852-454a-bbd5-dfa5ee0789a8,90c46f23-a8e7-4626-93f4-b0be2d57c3d7,64e2f216-2a67-48b7-b02e-70a369675c82,73ff552e-63f3-4bcc-8c8a-7f9df6cca147,ebf149b2-17e5-4dba-bbc4-a96dd414d7e0,ad73b6ad-edfd-4f5c-b55c-4a33de5eb35a,6e2df4e6-31a5-466c-8db2-4fd3b7447187,fd1a9f9b-cc46-41c7-93a3-026ba0f6e446,9930f01e-f919-4189-b322-a588acf5ffbc,b6e39b08-44cb-4925-b729-16def1338c28,7d36e760-34ad-49e0-b695-1aa88cbd9249,51a4089a-ca81-48c6-aa1d-f288f329f413,1a44a8b9-9dd8-485c-917f-95d86c64944b,457c6613-6358-464e-9b74-7813fa328d68,902ab799-7fd6-4e07-b5cd-ac2d3fc3a992,801e209c-3b7a-4cd6-bb69-716e4eaf7f92,f84d1943-bebd-4d56-9d5c-3d3720dd5409,98e70b2d-2762-45db-83cd-78aa3ef4eb7a,a464ff54-2dec-4a2c-b659-aa5099fd3a0b,3f88c9cb-cd4d-4039-9ac9-797cf201d026,2b02f346-9f81-49ea-ba0b-249a5cd183e4,722987fb-dca2-4bd7-93e6-68a3b0eada53,ecb2a7f9-403e-4bf1-81c0-22ef76982862,66bbf90e-4190-44c8-83fa-b5029fe2ff82,28850fba-3025-41a6-8010-e3337cbfe18a,ef43ba5e-dd6a-4908-9971-894325576a30,12c0a5b1-25f7-45d0-a18e-59464da33c1a,88e81996-7e5b-4c58-916d-1c7b6c94ffc5,669b56d5-8b3e-4634-8260-2fea828fba06,cc666d8a-11e6-4ce1-aecc-000579e48f53,afc962b3-65f5-48a9-bee4-643eaa3ac9b3,5ff374f9-1f61-4000-bcee-60d8f037c5ce,831bfb76-d597-46d4-8817-508c5520ff91,ce610799-5f81-492d-8e0a-f7548897ca70,fc42ce97-538d-402a-a078-011cf722acd1,fe693f99-0745-4f73-ba74-8ce18e64ba14,d0844a4c-73d9-4a85-a52b-868733c40e9b,77099f03-5e7c-486f-b39e-f963d7f77ec5,7e203415-4fb4-4440-9d03-4224df79f45f,2d984968-ab55-4eda-b17b-b620a42863f4,d61bea88-ed5c-4fce-aba2-8c90a76fb0ce,33a36987-c6a9-4b98-ab4c-6923ce842f35" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.apache.tomcat.embed:tomcat-embed-websocket:10.1.19 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-76183?utm_source=Jetbrains&quot;&gt;CVE-2026-76183&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-77791?utm_source=Jetbrains&quot;&gt;CVE-2026-77791&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-87022?utm_source=Jetbrains&quot;&gt;CVE-2026-87022&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-79677?utm_source=Jetbrains&quot;&gt;CVE-2026-79677&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-73180?utm_source=Jetbrains&quot;&gt;CVE-2026-73180&lt;/a&gt; 6.8 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.apache.tomcat.embed:tomcat-embed-websocket:10.1.19" vulnerabilityIds="375155f0-503f-4bf9-b2bf-f1bbb05b2fa2,b8db478f-00fe-41e5-9a6e-5f0665345ed9,7625768f-586b-4030-8e0d-5a4180a23203,a2db062b-d0f2-4813-87ec-bc35af339bad,dafb6cde-2ad3-4b3a-878c-6cd170072ea6" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework.boot:spring-boot:3.2.4 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-22235?utm_source=Jetbrains&quot;&gt;CVE-2025-22235&lt;/a&gt; 7.3 Spring Boot EndpointRequest.to() creates wrong matcher if actuator endpoint is not exposed &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework.boot:spring-boot:3.2.4" vulnerabilityIds="901db737-b2c7-4e58-876b-cb3c2fdd203f" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-beans:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-59282?utm_source=Jetbrains&quot;&gt;CVE-2026-59282&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-41242?utm_source=JetBrains&quot;&gt;CVE-2025-41242&lt;/a&gt; 5.9 CVE-2025-41242: Path traversal vulnerability on non-compliant Servlet containers &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-beans:6.1.5" vulnerabilityIds="3205ebb1-1a43-4438-9c6f-a8bbe4c92553,effc4b6a-09f5-48e7-9999-0fe125acffc5" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-context:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-38820?utm_source=JetBrains&quot;&gt;CVE-2024-38820&lt;/a&gt; 3.1 Improper Handling of Case Sensitivity &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-22233?utm_source=Jetbrains&quot;&gt;CVE-2025-22233&lt;/a&gt; 3.1 Spring Framework DataBinder Case Sensitive Match Exception &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-context:6.1.5" vulnerabilityIds="76d226f2-ecb9-4976-b2e2-17a07c77dbfd,e8dde9d1-c357-4cfa-af18-1b5a441c9227" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-core:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-41249?utm_source=Jetbrains&quot;&gt;CVE-2025-41249&lt;/a&gt; 7.5 CVE-2025-41249: Spring Framework Annotation Detection Vulnerability &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41848?utm_source=Jetbrains&quot;&gt;CVE-2026-41848&lt;/a&gt; 3.7 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-core:6.1.5" vulnerabilityIds="5ab57513-9698-4b9e-b942-0584b4b80942,7db48310-2648-45bc-88b2-bcc2814dc9cc" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-expression:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-59283?utm_source=Jetbrains&quot;&gt;CVE-2026-59283&lt;/a&gt; 9.1 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41850?utm_source=Jetbrains&quot;&gt;CVE-2026-41850&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-47886?utm_source=Jetbrains&quot;&gt;CVE-2026-47886&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41851?utm_source=Jetbrains&quot;&gt;CVE-2026-41851&lt;/a&gt; 5.3 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41852?utm_source=Jetbrains&quot;&gt;CVE-2026-41852&lt;/a&gt; 3.7 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-expression:6.1.5" vulnerabilityIds="f3d7d975-aae2-4c7e-87ed-0932dcbd1100,ec120b46-953c-4b3d-9175-c386a80c8c5f,858ad1d3-9d3f-4c0c-92f5-5124ae416c0d,72d0a8e1-a28f-441c-ac14-87ba9cd5423d,2dbb2249-c55a-4f62-873a-a63898be7499" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-web:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-47891?utm_source=Jetbrains&quot;&gt;CVE-2026-47891&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-22262?utm_source=JetBrains&quot;&gt;CVE-2024-22262&lt;/a&gt; 8.1 Server-Side Request Forgery (SSRF) &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-47885?utm_source=Jetbrains&quot;&gt;CVE-2026-47885&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41845?utm_source=Jetbrains&quot;&gt;CVE-2026-41845&lt;/a&gt; 7.1 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-41234?utm_source=Jetbrains&quot;&gt;CVE-2025-41234&lt;/a&gt; 6.5 RFD Attack via “Content-Disposition” Header Sourced from Request &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-22740?utm_source=Jetbrains&quot;&gt;CVE-2026-22740&lt;/a&gt; 6.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-59281?utm_source=Jetbrains&quot;&gt;CVE-2026-59281&lt;/a&gt; 6.1 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41840?utm_source=Jetbrains&quot;&gt;CVE-2026-41840&lt;/a&gt; 5.9 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-38809?utm_source=Jetbrains&quot;&gt;CVE-2024-38809&lt;/a&gt; 5.3 Uncontrolled Resource Consumption ('Resource Exhaustion') &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41853?utm_source=Jetbrains&quot;&gt;CVE-2026-41853&lt;/a&gt; 5.3 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-web:6.1.5" vulnerabilityIds="e5aa95d2-c372-49c4-a324-86304e90c314,156de737-9d19-4bf5-aeb5-15f42997a498,4a458800-5bc9-47a0-8957-bbd95ea3ad67,8caab1ab-c691-4d17-a380-af61c9dc65b1,2f71319d-2fca-4fd5-85b5-a0787aa03000,761b7da7-f7fd-4462-a06b-bc916daf046f,904953b6-2f29-4933-8cdd-5b9c89c09d69,1682ecca-ec0d-4a53-9221-b4d0f2a6d03b,8ffd024a-a8ce-4858-a828-eaee9384bef6,914df404-83c3-4f48-a3f6-412a3bf83349,1033ea84-0394-4956-aedf-ca8c2d0b87fa,61444a0e-efd2-4c2e-b8f6-be450144a3c4,716eddbe-fe6d-485b-ba4c-d33e310ff5fb" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>82</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.springframework:spring-webmvc:6.1.5 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-47884?utm_source=Jetbrains&quot;&gt;CVE-2026-47884&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-59313?utm_source=Jetbrains&quot;&gt;CVE-2026-59313&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-38816?utm_source=Jetbrains&quot;&gt;CVE-2024-38816&lt;/a&gt; 7.5 Path Traversal &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2024-38819?utm_source=JetBrains&quot;&gt;CVE-2024-38819&lt;/a&gt; 7.5 Information Leak / Disclosure &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41842?utm_source=Jetbrains&quot;&gt;CVE-2026-41842&lt;/a&gt; 7.5 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41845?utm_source=Jetbrains&quot;&gt;CVE-2026-41845&lt;/a&gt; 7.1 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-47887?utm_source=Jetbrains&quot;&gt;CVE-2026-47887&lt;/a&gt; 6.1 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-41242?utm_source=JetBrains&quot;&gt;CVE-2025-41242&lt;/a&gt; 5.9 CVE-2025-41242: Path traversal vulnerability on non-compliant Servlet containers &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-22737?utm_source=Jetbrains&quot;&gt;CVE-2026-22737&lt;/a&gt; 5.9 Insufficient Information &lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-41843?utm_source=Jetbrains&quot;&gt;CVE-2026-41843&lt;/a&gt; 5.9 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt; &lt;artifactId&gt;spring-boot-starter-web&lt;/...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>155</length>
+  <fingerprint sourcePackage="maven:org.springframework:spring-webmvc:6.1.5" vulnerabilityIds="b37d6ea2-b27b-4887-ade7-8b2f69cd16ea,77d73638-28a3-424f-8be5-3b419d301c1a,e6ba330e-166a-4a2b-8126-6ef1c92f6391,32400b61-db43-489c-a34a-15b2bb93634c,89e15f31-f512-46a5-8524-ebc206123c7e,8caab1ab-c691-4d17-a380-af61c9dc65b1,e9c837a3-5129-4499-b571-00784d2c154f,effc4b6a-09f5-48e7-9999-0fe125acffc5,5f182a95-ffdf-4a40-a7be-7c2e5839b411,9ab85858-97e7-456e-bde1-20b38ec83fc0,dac883fb-b23d-4470-bbba-76c76d99694e,880e3b5d-3d1f-4733-8f5f-02e1e9e8ac7a,8f3ef16b-7fdf-45bd-8e3c-9057c1377bd4,914df404-83c3-4f48-a3f6-412a3bf83349,9d073541-5485-4782-806e-d3356c394400,9bf145eb-4157-4707-a8a6-b140e921b763,716eddbe-fe6d-485b-ba4c-d33e310ff5fb" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>111</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.apache.logging.log4j:log4j-api:2.25.4 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-49844?utm_source=Jetbrains&quot;&gt;CVE-2026-49844&lt;/a&gt; 5.8 Apache Log4j API: Improper serialization of non-finite floating-point values in MapMessage.asJson() &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;org.apache.logging.log4j&lt;/groupId&gt; &lt;artifactId&gt;log4j-core&lt;/artifactId&gt; ...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>186</length>
+  <fingerprint sourcePackage="maven:org.apache.logging.log4j:log4j-api:2.25.4" vulnerabilityIds="db40bbf8-ba9c-4272-b696-ecc401fadb31" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>118</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Dependency maven:com.fasterxml.jackson.core:jackson-databind:2.18.11 is vulnerable &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2026-110879?utm_source=Jetbrains&quot;&gt;CVE-2026-110879&lt;/a&gt; 9.8 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;com.fasterxml.jackson.core&lt;/groupId&gt; &lt;artifactId&gt;jackson-databind&lt;/artif...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>163</length>
+  <fingerprint sourcePackage="maven:com.fasterxml.jackson.core:jackson-databind:2.18.11" vulnerabilityIds="2e63a765-de6a-4312-8335-35203f39793d" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>124</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:io.github.classgraph:classgraph:4.6.18 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2021-47621?utm_source=JetBrains&quot;&gt;CVE-2021-47621&lt;/a&gt; 7.5 Improper Restriction of XML External Entity Reference ('XXE') &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;io.qameta.allure&lt;/groupId&gt; &lt;artifactId&gt;allure-java-commons-test&lt;/artifac...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>160</length>
+  <fingerprint sourcePackage="maven:io.github.classgraph:classgraph:4.6.18" vulnerabilityIds="97aebfc4-009f-430f-98e5-6eebb6e62854" />
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/pom.xml</file>
+  <line>124</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/pom.xml" />
+  <problem_class id="VulnerableLibrariesLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Vulnerable declared dependency</problem_class>
+  <description>&lt;html&gt;&lt;body&gt; Provides transitive vulnerable dependency maven:org.apache.commons:commons-lang3:3.15.0 &lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.mend.io/vulnerability-database/CVE-2025-48924?utm_source=Jetbrains&quot;&gt;CVE-2025-48924&lt;/a&gt; 5.3 Insufficient Information &lt;/li&gt;&lt;/ul&gt; Results powered by &lt;a href=&quot;https://www.mend.io/jetbrains-lp/?utm_source=JetBrains&quot;&gt;Mend.io&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;</description>
+  <highlighted_element>&lt;dependency&gt; &lt;groupId&gt;io.qameta.allure&lt;/groupId&gt; &lt;artifactId&gt;allure-java-commons-test&lt;/artifac...</highlighted_element>
+  <language>XML</language>
+  <offset>2</offset>
+  <length>160</length>
+  <fingerprint sourcePackage="maven:org.apache.commons:commons-lang3:3.15.0" vulnerabilityIds="05a838c3-ab55-4fb6-8996-94d71f90ba27" />
+</problem>
+</problems>

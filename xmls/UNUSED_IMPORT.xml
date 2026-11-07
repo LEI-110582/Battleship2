@@ -1,0 +1,58 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Carrack.java</file>
+  <line>3</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/main/java/battleship/Carrack.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.util.List;&lt;/code&gt;</description>
+  <highlighted_element>import java.util.List;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>7</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt;</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/IGameTest.java</file>
+  <line>3</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/battleship/IGameTest.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import static org.junit.jupiter.api.Assertions.*;&lt;/code&gt;</description>
+  <highlighted_element>import static org.junit.jupiter.api.Assertions.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java</file>
+  <line>7</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/test/java/battleship/TasksTest.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import static org.junit.jupiter.api.Assertions.*;&lt;/code&gt;</description>
+  <highlighted_element>import static org.junit.jupiter.api.Assertions.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+</problems>

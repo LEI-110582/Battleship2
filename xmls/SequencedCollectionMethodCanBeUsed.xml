@@ -1,0 +1,314 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>245</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getTopMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>245</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getTopMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>265</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getBottomMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>265</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getBottomMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>285</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getLeftMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>285</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getLeftMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>305</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getRightMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>305</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship int getRightMostPos()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>45</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void constructor()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>60</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void stillFloating2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>67</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void getPositions()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>73</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void shoot1()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/BargeTest.java</file>
+  <line>79</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.BargeTest void shoot2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/CarrackTest.java</file>
+  <line>129</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.CarrackTest void testStillFloating2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>108</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetShips()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>124</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetShipsLike()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>141</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetFloatingShips()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FleetTest.java</file>
+  <line>144</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FleetTest void testGetFloatingShips()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/FrigateTest.java</file>
+  <line>112</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.FrigateTest void testStillFloating2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>94</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetPositions()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>95</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testGetPositions()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>112</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testStillFloating2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>124</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testShoot1()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/test/java/battleship/ShipTest.java</file>
+  <line>134</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.ShipTest void testShoot2()" />
+  <problem_class id="SequencedCollectionMethodCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">SequencedCollection method can be used</problem_class>
+  <description>Can be replaced with 'getFirst()' call</description>
+  <highlighted_element>get</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>3</length>
+</problem>
+</problems>

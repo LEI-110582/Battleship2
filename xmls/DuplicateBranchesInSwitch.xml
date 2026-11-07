@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Caravel.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Caravel Caravel(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int r = 0; r &lt; this.getSize(); r++) getPositions().add(new Position(pos.getRow() + r, pos....</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Caravel.java</file>
+  <line>36</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Caravel Caravel(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int c = 0; c &lt; this.getSize(); c++) getPositions().add(new Position(pos.getRow(), pos.getC...</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Carrack.java</file>
+  <line>30</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Carrack Carrack(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int r = 0; r &lt; this.getSize(); r++) getPositions().add(new Position(pos.getRow() + r, pos....</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Carrack.java</file>
+  <line>38</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Carrack Carrack(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int c = 0; c &lt; this.getSize(); c++) getPositions().add(new Position(pos.getRow(), pos.getC...</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Frigate.java</file>
+  <line>28</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Frigate Frigate(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int r = 0; r &lt; this.getSize(); r++) getPositions().add(new Position(pos.getRow() + r, pos....</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Frigate.java</file>
+  <line>36</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Frigate Frigate(battleship.Compass bearing, battleship.IPosition pos)" />
+  <problem_class id="DuplicateBranchesInSwitch" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Duplicate branches in 'switch'</problem_class>
+  <description>Duplicate branch in 'switch'</description>
+  <highlighted_element>for (int c = 0; c &lt; this.getSize(); c++) getPositions().add(new Position(pos.getRow(), pos.getC...</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>114</length>
+</problem>
+</problems>

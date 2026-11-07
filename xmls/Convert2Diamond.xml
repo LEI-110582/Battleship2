@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Fleet.java</file>
+  <line>117</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Fleet java.util.List&lt;battleship.IShip&gt; getShipsLike(java.lang.String category)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IShip can be replaced with &lt;&gt;</description>
+  <highlighted_element>IShip</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Fleet.java</file>
+  <line>138</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Fleet java.util.List&lt;battleship.IShip&gt; getFloatingShips()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IShip can be replaced with &lt;&gt;</description>
+  <highlighted_element>IShip</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Fleet.java</file>
+  <line>159</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Fleet java.util.List&lt;battleship.IShip&gt; getSunkShips()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IShip can be replaced with &lt;&gt;</description>
+  <highlighted_element>IShip</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>177</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game Game(battleship.IFleet myFleet)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IMove can be replaced with &lt;&gt;</description>
+  <highlighted_element>IMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>178</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game Game(battleship.IFleet myFleet)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IMove can be replaced with &lt;&gt;</description>
+  <highlighted_element>IMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>227</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game java.lang.String randomEnemyFire()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>238</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game java.lang.String randomEnemyFire()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>338</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game void fireShots(java.util.List&lt;battleship.IPosition&gt; shots)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument ShotResult can be replaced with &lt;&gt;</description>
+  <highlighted_element>ShotResult</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Game.java</file>
+  <line>343</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Game void fireShots(java.util.List&lt;battleship.IPosition&gt; shots)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Position.java</file>
+  <line>137</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Position java.util.List&lt;battleship.IPosition&gt; adjacentPositions()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>159</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship java.util.List&lt;battleship.IPosition&gt; getAdjacentPositions()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>159</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship java.util.List&lt;battleship.IPosition&gt; getAdjacentPositions()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument IPosition can be replaced with &lt;&gt;</description>
+  <highlighted_element>IPosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>9</length>
+</problem>
+</problems>

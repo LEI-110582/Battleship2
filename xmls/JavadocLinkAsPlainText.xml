@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/BattleshipServer.java</file>
+  <line>10</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.BattleshipServer" />
+  <problem_class id="JavadocLinkAsPlainText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Link specified as plain text</problem_class>
+  <description>Link specified as plain text</description>
+  <highlighted_element>http://localhost:8080</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/Dtos.java</file>
+  <line>25</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="class" FQNAME="restserver.Dtos.RegistrationRequest" />
+  <problem_class id="JavadocLinkAsPlainText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Link specified as plain text</problem_class>
+  <description>Link specified as plain text</description>
+  <highlighted_element>http://student-host:9090</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/restserver/GameSession.java</file>
+  <line>23</line>
+  <module>BattleshipGamePlayer</module>
+  <package>restserver</package>
+  <entry_point TYPE="field" FQNAME="restserver.GameSession callbackUrl" />
+  <problem_class id="JavadocLinkAsPlainText" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Link specified as plain text</problem_class>
+  <description>Link specified as plain text</description>
+  <highlighted_element>http://student-host:9090</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>24</length>
+</problem>
+</problems>

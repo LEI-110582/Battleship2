@@ -1,0 +1,14 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/README.md</file>
+  <line>35</line>
+  <module>BattleshipGamePlayer</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Feature | Description | Status | | :--- | :--- | :---: | | **Grid System** | Flexible $N \times N$...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>325</length>
+</problem>
+</problems>

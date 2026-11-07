@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/IShip.java</file>
+  <line>131</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="class" FQNAME="battleship.IShip" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+</problems>

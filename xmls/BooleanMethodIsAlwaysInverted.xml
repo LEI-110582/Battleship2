@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Fleet.java</file>
+  <line>195</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Fleet boolean colisionRisk(battleship.IShip s)" />
+  <problem_class id="BooleanMethodIsAlwaysInverted" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Boolean method is always inverted</problem_class>
+  <hints />
+  <description>Calls to boolean method 'colisionRisk()' are always inverted</description>
+  <highlighted_element>colisionRisk</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+</problems>

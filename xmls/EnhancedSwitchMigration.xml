@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Compass.java</file>
+  <line>84</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Compass battleship.Compass charToCompass(char ch)" />
+  <problem_class id="EnhancedSwitchMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement can be replaced with enhanced 'switch'</problem_class>
+  <description>Switch statement can be replaced with enhanced 'switch'</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>52</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship battleship.Ship buildShip(java.lang.String shipKind, battleship.Compass bearing, battleship.Position pos)" />
+  <problem_class id="EnhancedSwitchMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement can be replaced with enhanced 'switch'</problem_class>
+  <description>Switch statement can be replaced with enhanced 'switch'</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>52</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship battleship.Ship buildShip(java.lang.String shipKind, battleship.Compass bearing, battleship.Position pos)" />
+  <problem_class id="EnhancedSwitchMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement can be replaced with enhanced 'switch'</problem_class>
+  <description>Switch statement can be replaced with enhanced 'switch'</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+</problems>

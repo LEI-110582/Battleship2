@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/main/java/battleship/Ship.java</file>
+  <line>351</line>
+  <module>BattleshipGamePlayer</module>
+  <package>battleship</package>
+  <entry_point TYPE="method" FQNAME="battleship.Ship boolean tooCloseTo(battleship.IShip other)" />
+  <problem_class id="WhileCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'while' loop can be replaced with enhanced 'for' loop</problem_class>
+  <description>&lt;code&gt;while&lt;/code&gt; loop can be replaced with enhanced 'for'</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>5</length>
+</problem>
+</problems>
