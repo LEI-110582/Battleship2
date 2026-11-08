@@ -1,0 +1,22 @@
+# 110582-ige - Miguel Passos
+name: Checkstyle 110582-ige
+on:
+  pull_request:
+permissions:
+  contents: read
+  checks: write
+  pull-requests: write
+jobs:
+  checkstyle:
+    name: checkstyle-110582-ige
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dbelyaev/action-checkstyle@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          checkstyle_config: checkstyle-110582-ige.xml
+          reporter: github-pr-check
+          level: error
+          fail_level: error
+          filter_mode: added
