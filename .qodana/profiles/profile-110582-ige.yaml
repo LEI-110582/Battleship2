@@ -1,0 +1,14 @@
+# 110582-ige - Miguel Passos
+name: "Smell Long Parameter List 110582-ige"
+baseProfile: empty
+inspections:
+  - inspection: MethodWithTooManyParameters
+    enabled: true
+    severity: WARNING
+    options:
+      m_limit: 5
+  - inspection: ConstructorWithTooManyParameters
+    enabled: true
+    severity: WARNING
+    options:
+      m_limit: 5
