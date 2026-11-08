@@ -2,12 +2,12 @@
 name: "Smell Long Method 110582"
 baseProfile: empty
 inspections:
-  - inspection: OverlyLongMethod
+  - inspection: NonCommentSourceStatements
     enabled: true
     severity: WARNING
     options:
       m_limit: 13
-  - inspection: OverlyComplexMethod
+  - inspection: CyclomaticComplexity
     enabled: true
     severity: WARNING
     options:
