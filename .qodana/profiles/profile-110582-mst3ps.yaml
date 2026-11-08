@@ -1,0 +1,9 @@
+# 110582-mst3ps - Miguel Passos
+name: "Smell Large Class 110582-mst3ps"
+baseProfile: empty
+inspections:
+  - inspection: ClassWithTooManyMethods
+    enabled: true
+    severity: WARNING
+    options:
+      m_limit: 10
