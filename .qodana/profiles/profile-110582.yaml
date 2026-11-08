@@ -1,0 +1,14 @@
+# 110582 - Miguel Passos
+name: "Smell Long Method 110582"
+baseProfile: empty
+inspections:
+  - inspection: OverlyLongMethod
+    enabled: true
+    severity: WARNING
+    options:
+      m_limit: 13
+  - inspection: OverlyComplexMethod
+    enabled: true
+    severity: WARNING
+    options:
+      m_limit: 10
