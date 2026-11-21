@@ -1,7 +1,7 @@
 # ⚓ Battleship 2.0
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Java Version](https://img.shields.io/badge/Java-25-blue)
+![Java Version](https://img.shields.io/badge/Java-17%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > A modern take on the classic naval warfare game, designed for the XVII century setting with updated software engineering patterns.
@@ -15,7 +15,6 @@
 - [Installation & Setup](#-installation--setup)
 - [Code Architecture](#-code-architecture)
 - [Roadmap](#-roadmap)
-- [Testing & Continuous Integration](#-testing--continuous-integration)
 - [Contributing](#-contributing)
 
 ---
@@ -38,14 +37,14 @@ Hits are calculated based on the intersection of the shot vector and the ship's 
 | **Grid System** | Flexible $N \times N$ board generation. | ✅ |
 | **Ship Varieties** | Galleons, Frigates, and Brigantines (XVII Century theme). | ✅ |
 | **AI Opponent** | Heuristic-based targeting system. | 🚧 |
-| **Network Play** | REST API multiplayer server. | ✅ |
+| **Network Play** | Socket-based multiplayer. | ❌ |
 
 ---
 
 ## 🛠 Technical Stack
-- **Language:** Java 25
-- **Build Tool:** Maven
-- **Testing:** JUnit 5/6
+- **Language:** Java 17
+- **Build Tool:** Maven / Gradle
+- **Testing:** JUnit 5
 - **Logging:** Log4j2
 
 ---
@@ -53,30 +52,22 @@ Hits are calculated based on the intersection of the shot vector and the ship's 
 ## 🚀 Installation & Setup
 
 ### Prerequisites
-- JDK 25 or higher
+- JDK 17 or higher
 - Git
 
 ### Step-by-Step
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/LEI-110582/Battleship2.git](https://github.com/LEI-110582/Battleship2.git)
-
-```
-
+   git clone [https://github.com/britoeabreu/Battleship2.git](https://github.com/britoeabreu/Battleship2.git)
+   ```
 2. **Navigate to directory:**
-```bash
-cd Battleship2
-
-```
-
-
+   ```bash
+   cd Battleship2
+   ```
 3. **Compile and Run:**
-```bash
-mvn compile exec:java -Dexec.mainClass="battleship.Main"
-
-```
-
-
+   ```bash
+   javac Main.java && java Main
+   ```
 
 ---
 
@@ -86,28 +77,27 @@ You can access the generated Javadoc here:
 
 👉 [Battleship2 API Documentation](https://britoeabreu.github.io/Battleship2/)
 
-### Core Logic
 
+### Core Logic
 ```java
 public class Ship {
     private String name;
     private int size;
     private boolean isSunk;
 
+    // TODO: Implement damage logic
     public void hit() {
         // Implementation here
     }
 }
-
 ```
 
 ### Design Patterns Used:
-
-* **Strategy Pattern:** For different AI difficulty levels (`AiShotStrategy`).
-* **Observer / Callback Pattern:** To notify clients of game events (`CallbackClient`).
+- **Strategy Pattern:** For different AI difficulty levels.
+- **Observer Pattern:** To update the UI when a ship is hit.
+</details>
 
 ### Logic Flow
-
 ```mermaid
 graph TD
     A[Start Game] --> B{Place Ships}
@@ -118,41 +108,34 @@ graph TD
     E -- Miss --> G[AI Turn]
     F --> G
     G --> C
-
 ```
 
 ---
 
 ## 🗺 Roadmap
-
-* [x] Basic grid implementation
-* [x] Ship placement validation
-* [x] REST Multiplayer Integration
-* [ ] Add sound effects (SFX)
-* [ ] Implement "Fog of War" mechanic
+- [x] Basic grid implementation
+- [x] Ship placement validation
+- [ ] Add sound effects (SFX)
+- [ ] Implement "Fog of War" mechanic
+- [ ] **Multiplayer Integration** (High Priority)
 
 ---
 
 ## 🧪 Testing & Continuous Integration
-
-We use high-coverage unit testing (JUnit) to ensure game stability and prevent regressions during refactoring. Run tests locally using:
-
+We use high-coverage unit testing to ensure game stability. Run tests using:
 ```bash
 mvn test
-
 ```
 
 > [!TIP]
 > Use the `-Dtest=ClassName` flag to run specific test suites during development.
 
 ### Continuous Integration (GitHub Actions)
-
-This repository uses the **Java CI with Maven** workflow (`.github/workflows/maven.yml`), which automatically builds the project with JDK 25 and runs the full JUnit test suite (`mvn -B test --file pom.xml`) on every `push` and `pull_request` to `main`.
+This repository uses the **Java CI with Maven** workflow (`.github/workflows/maven.yml`), which automatically builds the project and runs the JUnit test suite (`mvn -B test --file pom.xml`) on every `push` and `pull_request` to `main`.
 
 ---
 
 ## 🤝 Contributing
-
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
 
 1. Fork the Project
@@ -164,13 +147,8 @@ Contributions are what make the open-source community such an amazing place to l
 ---
 
 ## 📄 License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-**Maintained by:** [@LEI-110582](https://www.google.com/search?q=https://github.com/LEI-110582)
-
+**Maintained by:** [@britoeabreu](https://github.com/britoeabreu)  
 *Created for the Software Engineering students at ISCTE-IUL.*
-
-```
