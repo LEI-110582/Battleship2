@@ -121,11 +121,10 @@ graph TD
 
 ---
 
-## 🧪 Testing
-We use high-coverage unit testing to ensure game stability. Run tests using:
+## 🧪 Testing & Continuous Integration
+We use high-coverage unit testing (JUnit) to ensure game stability. Run tests locally using:
 ```bash
 mvn test
-```
 
 > [!TIP]
 > Use the `-Dtest=ClassName` flag to run specific test suites during development.
